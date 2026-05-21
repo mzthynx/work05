@@ -208,6 +208,7 @@ if __name__ == "__main__":
 + <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">随迭代次数增加，右侧图像逐渐逼近左侧。</font>
 
 ### <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">2. 效果动画</font>
+![实验效果图](计图实验05.gif)
 
 ### <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">3. 收敛结果</font>
 + <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">初始 Loss 较高，光源位于球体背面</font>
