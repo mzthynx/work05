@@ -1,6 +1,8 @@
 # <font style="background-color:rgba(0, 0, 0, 0);">基于 Taichi 的可微渲染与光源位置优化实验报告</font>
 ---
 
+学号：202411081021      姓名：陈诗邈   专业：计算机师范
+
 ## <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">一、实验目的</font>
 1. <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">理解可微渲染基本原理，掌握 Taichi 自动微分与梯度回传的使用方法。</font>
 2. <font style="color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);">实现 Lambertian 漫反射模型，生成球体光照目标参考图像。</font>
